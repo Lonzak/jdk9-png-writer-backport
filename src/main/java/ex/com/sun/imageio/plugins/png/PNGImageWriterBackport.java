@@ -23,7 +23,7 @@
  * questions.
  */
 
-package com.sun.imageio.plugins.png;
+package ex.com.sun.imageio.plugins.png;
 
 import java.awt.Rectangle;
 import java.awt.image.IndexColorModel;
